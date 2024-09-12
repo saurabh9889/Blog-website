@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/flasklearning",
+        "prod_uri": "mysql://root:@localhost/flasklearning",
+        "fb_url": "https://facebook.com",
+        "tw_url": "https://twitter.com",
+        "gh_url": "https://github.com",
+        "blog_name": "Coding Therapy",
+        "blog_subtitle": "I Love to Code",
+        "blog_heading": "Coding Universe",
+        "blog_cpright": "It's Coding World",
+        "blog_title": "It's Coding World",
+        "gmail_user": "420saurabhmishra@gmail.com",
+        "gmail_password": "12346",
+        "about_text": "Hello my name is Saurabh and I'm learning how to code.",
+        "no_of_posts": 4,
+        "admin_user": "jigar",
+        "admin_password": "zeegar",
+        "upload_location": "PS E:\\Fresh jrny\\flask"
+    }
+}
